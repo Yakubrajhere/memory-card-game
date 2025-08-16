@@ -16,7 +16,7 @@ A fun and interactive memory card game built with HTML, CSS, and JavaScript.
 4. Complete all pairs to win!
 
 ## Live Demo
-[Play the game here](https://YOUR_USERNAME.github.io/memory-card-game)
+[Play the game here](https://yakubrajhere.github.io/memory-card-game/)
 
 ## Technologies Used
 - HTML5
